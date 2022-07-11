@@ -26,10 +26,12 @@ public class main {
         // Usted qué opina Rolo?
         // Que juguemos fall guys
         // claro que yes
-        // Probando los estilos
         // joder claro que si
+<<<<<<< HEAD
         // Primer dia de Andy
 
+=======
+>>>>>>> 24fb7037517e9a73da7f234c7d81da753dfde873
     }
     
 }
